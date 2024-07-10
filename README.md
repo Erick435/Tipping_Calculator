@@ -1,0 +1,2 @@
+# Tipping Calculator
+This is a simple **Python** project that asks for the total of what you're paying for, and then proceeds to ask how much tip (percentage) you would like to pay for. It takes the total and the tip percentage to find the new total for your bill.
